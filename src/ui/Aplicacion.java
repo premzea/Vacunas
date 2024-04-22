@@ -1,0 +1,1 @@
+//como pacientes atributos de todos y tipos de pacientes?
